@@ -65,9 +65,13 @@ exports.getLoginForm = (req, res) => {
 };
 
 exports.getSignupForm = (req, res) => {
-  res.status(200).render('signup', {
-    title: 'Create New Account',
-  });
+  res
+    .status(200)
+    .set('Content-Security-Policy', "connect-src 'self' http://127.0.0.1:8000/")
+    .set('Content-Security-Policy', csp)
+    .render('signup', {
+      title: 'Create New Account',
+    });
 };
 
 exports.getAccount = (req, res) => {
