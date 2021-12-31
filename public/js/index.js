@@ -63,6 +63,17 @@ if (userPasswordForm)
     document.getElementById('password-confirm').value = '';
   });
 
+if (signupForm) {
+  signupForm.addEventListener('submit', (e) => {
+    e.preventDefault();
+    const name = document.getElementById('name').value;
+    const email = document.getElementById('email').value;
+    const password = document.getElementById('password').value;
+    const confirmPassword = document.getElementById('password-confirm').value;
+    signup(name, email, password, confirmPassword);
+  });
+}
+
 if (bookBtn)
   bookBtn.addEventListener('click', (e) => {
     e.target.textContent = 'Processing...';
