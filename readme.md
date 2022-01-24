@@ -11,7 +11,17 @@
     - tour bookings
     - payment acceptance
 
+## Behind the Scenes:
 
+- Authorization and Authentication
+    - JWT
+    - Bcrypt
+- Security
+    - Dotenv
+    - Helmet
+    - Cookie-Parser
+    - CORS
+    - HPP
 ---
 **NOTE:**
 
@@ -29,36 +39,30 @@ Live Site URL: https://natours-sf.herokuapp.com/
 - JavaScript
 - Node.js - JS Runtime Environment
 - Express.js / csp / mongo-sanitize / rate limit - Web framework
-- MongoDB
+- MongoDB - NoSQL DB
 - Mongoose - Object data modeling library
 - Heroku - Cloud platform
 - JWT - JSON Web Token
 - Postman - API testing
-- Babel
-- Axios
-- Bcript.js
+- Babel - JS transpiler for older browsers
+- Axios - Promise based client
+- Bcript.js - Password security platform
 - Compression
 - Cookie-Parser
-- CORS
-- Dotenv
-- Helmet
-- HPP
-- html-to-text
-- Morgan
-- Multer
+- CORS - Cross-Origin Resource Sharing
+- Dotenv - Secret seperator from source code
+- Helmet - Security related HTTP response headers
+- HPP - Polution Prevention middleware
+- html-to-text - HTML parser and converter
+- Morgan- HTTP Request Logger
+- Multer - Handles multipart/form data
 - Nodemailer
 - Nodemon
-- Pug -
-- Sharp
+- Pug - HTML Template Engine
+- Sharp - High performance Image Processing
 - Slugify
 - Stripe - Payment API feature
 - Validator
 - xss-clean
-- eslint
+- eslint - Pluggable linting utility
 - Parcel
-
-
-### What I learned
-
-Before this app, MongoDB and Mongoose was brand new to me, along with a lot of these NPM packages. <br />
-With Authorization and authentication, encryption, and JWT and ESLINT in the background, and other middlware in place for any kind of attacks
