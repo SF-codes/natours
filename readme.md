@@ -22,6 +22,10 @@
     - Cookie-Parser
     - CORS
     - HPP
+
+### Links
+Live Site URL: https://natours-sf.herokuapp.com/
+
 ---
 **NOTE:**
 
@@ -30,9 +34,7 @@ When booking a tour - use card # <b>4242 4242 4242 4242</b>
 
 ---
 
-
-### Links
-Live Site URL: https://natours-sf.herokuapp.com/
+![Screenshot 2022-01-24 at 10-53-37 Natours All tours](https://user-images.githubusercontent.com/82302032/150817071-dde916b9-6d52-4baa-a196-bdfd3ef1f603.png)
 
 ### Built with
 
