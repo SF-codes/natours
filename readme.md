@@ -1,5 +1,18 @@
 # Natours Application
 
+### Links
+Live Site URL: https://natours-sf.herokuapp.com/
+
+---
+**PLEASE READ:**
+
+<b>TO SKIP SIGN UP</b> so you can use all the functionalities, use email <b>laura@example.com</b> with password <b>test1234</b> <br />
+When booking a tour - use card # <b>4242 4242 4242 4242</b>
+
+Enjoy!
+
+---
+
 ## With this app you can:
 
 - Sign up/login
@@ -22,17 +35,6 @@
     - Cookie-Parser
     - CORS
     - HPP
-
-### Links
-Live Site URL: https://natours-sf.herokuapp.com/
-
----
-**NOTE:**
-
-To by pass making a new sign up so you can use all the functionalities, use email <b>laura@example.com</b> with password <b>test1234</b> <br />
-When booking a tour - use card # <b>4242 4242 4242 4242</b>
-
----
 
 ![Screenshot 2022-01-24 at 10-53-37 Natours All tours](https://user-images.githubusercontent.com/82302032/150817071-dde916b9-6d52-4baa-a196-bdfd3ef1f603.png)
 
