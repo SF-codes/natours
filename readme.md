@@ -1,8 +1,5 @@
 # Natours Application
 
-### Links
-Live Site URL: https://natours-sf.herokuapp.com/
-
 ---
 **PLEASE READ:**
 
@@ -12,6 +9,9 @@ When booking a tour - use card # <b>4242 4242 4242 4242</b>
 Enjoy!
 
 ---
+
+### Links
+Live Site URL: https://natours-sf.herokuapp.com/
 
 ## With this app you can:
 
